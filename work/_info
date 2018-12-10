@@ -1,0 +1,211 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dF:/ITI/VHDL_Labs
+Eand2
+Z1 w1544482958
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8F:/ITI/VHDL_Labs/and2.vhd
+Z5 FF:/ITI/VHDL_Labs/and2.vhd
+l0
+L4
+V3;o0=EUQ[<OVlg54dDmS_2
+!s100 mVMG?VQSZTfMhOzWbQAQ02
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1544483043
+!i10b 1
+Z8 !s108 1544483043.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/and2.vhd|
+Z10 !s107 F:/ITI/VHDL_Labs/and2.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Aand2
+R2
+R3
+Z13 DEx4 work 4 and2 0 22 3;o0=EUQ[<OVlg54dDmS_2
+l9
+L9
+Vi<A4HMle5n`I`V2b=oSC<1
+!s100 0;ehgnoV0:lSdXbIWBAbE3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Elatch
+Z14 w1544482980
+R2
+R3
+R0
+Z15 8F:/ITI/VHDL_Labs/latch.vhd
+Z16 FF:/ITI/VHDL_Labs/latch.vhd
+l0
+L4
+V1;hhm;gjdPICVdUWJ[n@X1
+!s100 6=?GAFLzPS7dGBN7z1YC=1
+R6
+32
+Z17 !s110 1544483055
+!i10b 1
+Z18 !s108 1544483055.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch.vhd|
+Z20 !s107 F:/ITI/VHDL_Labs/latch.vhd|
+!i113 1
+R11
+R12
+Abehav
+R2
+R3
+Z21 DEx4 work 5 latch 0 22 1;hhm;gjdPICVdUWJ[n@X1
+l10
+L9
+V<`KYMM8EO[Db9FmFcD6BH3
+!s100 MO05:fakRdUz999:iPmUb0
+R6
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R11
+R12
+Elatch4
+Z22 w1544483024
+R2
+R3
+R0
+Z23 8F:/ITI/VHDL_Labs/latch4Structural.vhd
+Z24 FF:/ITI/VHDL_Labs/latch4Structural.vhd
+l0
+L5
+V`zATL<JkW:DkSC=`EFPcT3
+!s100 O[FdWBIDiSm<nTdhc990z3
+R6
+32
+Z25 !s110 1544483085
+!i10b 1
+Z26 !s108 1544483085.000000
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch4Structural.vhd|
+Z28 !s107 F:/ITI/VHDL_Labs/latch4Structural.vhd|
+!i113 1
+R11
+R12
+Astruct
+R13
+R21
+R2
+R3
+DEx4 work 6 latch4 0 22 `zATL<JkW:DkSC=`EFPcT3
+l22
+L11
+V_[D_6W8EJ=aRC`SDl>]AP3
+!s100 >cSUkUVcbU^zKd[=A1l^U3
+R6
+32
+R25
+!i10b 1
+R26
+R27
+R28
+!i113 1
+R11
+R12
+Abehav
+R2
+R3
+Z29 DEx4 work 6 latch4 0 22 z_^hVgoI<H]4nRV:fDSWe3
+l10
+L10
+V0]DMkld<G<VQEV6>SA@c23
+!s100 R338UI=Fi96e6MTmN76;G3
+R6
+32
+!s110 1544483063
+!i10b 1
+!s108 1544483063.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch4.vhd|
+!s107 F:/ITI/VHDL_Labs/latch4.vhd|
+!i113 1
+R11
+R12
+FF:/ITI/VHDL_Labs/latch4.vhd
+w1544482993
+8F:/ITI/VHDL_Labs/latch4.vhd
+Elatch8
+Z30 w1544483010
+R2
+R3
+R0
+Z31 8F:/ITI/VHDL_Labs/latch8.vhd
+Z32 FF:/ITI/VHDL_Labs/latch8.vhd
+l0
+L31
+VFDSznYGLj6^9gc4j^ZcYI0
+!s100 Jfccz@8;nRKL05fQA_COl3
+R6
+32
+Z33 !s110 1544483078
+!i10b 1
+Z34 !s108 1544483078.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch8.vhd|
+Z36 !s107 F:/ITI/VHDL_Labs/latch8.vhd|
+!i113 1
+R11
+R12
+Astruct
+R29
+R2
+R3
+DEx4 work 6 latch8 0 22 FDSznYGLj6^9gc4j^ZcYI0
+l49
+L37
+VdzGYC=8icB^M@SY50U=JW2
+!s100 @OCF_z3C6gc0gYz4g=f811
+R6
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R11
+R12
+Etestbench
+w1544483892
+R2
+R3
+R0
+8F:/ITI/VHDL_Labs/testbench.vhd
+FF:/ITI/VHDL_Labs/testbench.vhd
+l0
+L4
+Ve=aO;Yi^=oXRE?_>279j52
+!s100 NaNUGQOUoO6LLI=3hH9@h2
+R6
+32
+!s110 1544483897
+!i10b 1
+!s108 1544483897.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/testbench.vhd|
+!s107 F:/ITI/VHDL_Labs/testbench.vhd|
+!i113 1
+R11
+R12
