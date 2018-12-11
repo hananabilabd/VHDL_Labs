@@ -11,7 +11,7 @@ ARCHITECTURE test_dff of testbench IS
 	PORT (d ,clk : IN bit;
 		q: out bit);
 	END component dff;
-	for dut : dff USE entity WORK.dff (behav);
+	FOR dut : dff USE entity work.dff (behav);
 	SIGNAL d_in ,d_out :bit;
 	SIGNAL clock :bit;
 	
