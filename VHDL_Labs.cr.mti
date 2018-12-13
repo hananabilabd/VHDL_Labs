@@ -14,34 +14,7 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Error: F:/ITI/VHDL_Labs/counter_test.vhd(15): Unknown expanded name.
 ** Error: F:/ITI/VHDL_Labs/counter_test.vhd(29): VHDL Compiler exiting
 
-} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/latch.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity latch
--- Compiling architecture behav of latch
-
-} {} {}} F:/ITI/VHDL_Labs/latch4.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity latch4
--- Compiling architecture behav of latch4
-
-} {} {}} F:/ITI/VHDL_Labs/latch8.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch8.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity latch8
--- Compiling architecture struct of latch8
--- Loading entity latch4
--- Compiling entity latch8
--- Compiling architecture struct of latch8
-
-} {} {}} F:/ITI/VHDL_Labs/testbench.vhd {0 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/testbench.vhd
+} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/testbench.vhd {0 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/testbench.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -57,13 +30,21 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Error: F:/ITI/VHDL_Labs/testbench.vhd(14): Unknown expanded name.
 ** Error: F:/ITI/VHDL_Labs/testbench.vhd(48): VHDL Compiler exiting
 
-} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/and2.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/and2.vhd
+} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/latch4.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity and2
--- Compiling architecture and2 of and2
+-- Compiling entity latch4
+-- Compiling architecture behav of latch4
+
+} {} {}} F:/ITI/VHDL_Labs/latch.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity latch
+-- Compiling architecture behav of latch
 
 } {} {}} F:/ITI/VHDL_Labs/latch4Structural.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4Structural.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -74,5 +55,13 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling architecture struct of latch4
 -- Loading entity latch
 -- Loading entity and2
+
+} {} {}} F:/ITI/VHDL_Labs/and2.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/and2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2
+-- Compiling architecture and2 of and2
 
 } {} {}}
