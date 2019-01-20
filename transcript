@@ -1,0 +1,40 @@
+# Reading C:/Modeltech_pe_edu_10.4a/tcl/vsim/pref.tcl
+# OpenFile F:/ITI/VHDL_Labs/VHDL_Labs.mpf
+# Loading project VHDL_Labs
+# Compile of alu.vhd was successful.
+# Compile of wide_alu.vhd was successful.
+vsim -gui work.wide_alu
+# //  ModelSim PE Student Edition 10.4a Apr  7 2015 
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# // NOT FOR CORPORATE OR PRODUCTION USE.
+# // THE ModelSim PE Student Edition IS NOT A SUPPORTED PRODUCT.
+# // FOR HIGHER EDUCATION PURPOSES ONLY
+# //
+# vsim -gui F:\ITI\VHDL_Labs\VHDL_Labs.mpf 
+# Start time: 00:12:47 on Dec 29,2018
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading work.pack_a
+# Loading work.wide_alu(wide_1)
+# ** Error: (vsim-13) Recompile work.alu because work.pack_a has changed.
+# 
+# ** Error (suppressible): (vsim-12) Recompile work.alu(alu) after work.alu is recompiled.
+# 
+# ** Error: (vsim-13) Recompile work.alu(alu) because work.pack_a has changed.
+# 
+# Load interrupted
+# Error loading design

@@ -1,0 +1,17 @@
+1 1 1 5 ns 1 true
+1 0 0 5 ns 0 true
+0 1 0 5 ns 0 true
+0 0 0 5 ns 0 true
+1 1 0 5 ns 0 true
+1 0 0 5 ns 0 true
+1 1 1 5 ns 1 true
+1 0 1 5 ns 1 true
+0 1 1 5 ns 0 true
+0 0 1 5 ns 0 true
+1 1 1 5 ns 1 true
+1 0 1 5 ns 1 true
+0 1 1 5 ns 0 true
+0 0 1 5 ns 0 true
+1 1 1 5 ns 1 true
+1 0 1 5 ns 1 true
+1 1 1 5 ns 1 true

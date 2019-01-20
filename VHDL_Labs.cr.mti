@@ -1,4 +1,27 @@
-F:/ITI/VHDL_Labs/counter_test.vhd {0 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/counter_test.vhd
+F:/ITI/VHDL_Labs/tb.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Compiling entity tb_comb_42
+-- Compiling architecture test_dff of tb_comb_42
+-- Loading entity dff_1
+
+} {} {}} F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd {2 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package std_logic_textio
+-- Compiling entity rom
+-- Compiling architecture function_arch of rom
+** Warning: F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd(24): (vcom-1283) Cannot reference file "f" inside pure function "rom_fill".
+
+
+} {} {}} F:/ITI/VHDL_Labs/counter_test.vhd {0 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/counter_test.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Compiling package counterpackage
@@ -30,21 +53,13 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 ** Error: F:/ITI/VHDL_Labs/testbench.vhd(14): Unknown expanded name.
 ** Error: F:/ITI/VHDL_Labs/testbench.vhd(48): VHDL Compiler exiting
 
-} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/latch4.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4.vhd
+} {8.0 9.0 12.0 13.0 14.0 16.0} {}} F:/ITI/VHDL_Labs/dff_1.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/dff_1.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity latch4
--- Compiling architecture behav of latch4
-
-} {} {}} F:/ITI/VHDL_Labs/latch.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch.vhd
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity latch
--- Compiling architecture behav of latch
+-- Compiling entity dff_1
+-- Compiling architecture behav of dff_1
 
 } {} {}} F:/ITI/VHDL_Labs/latch4Structural.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4Structural.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -56,6 +71,25 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading entity latch
 -- Loading entity and2
 
+} {} {}} F:/ITI/VHDL_Labs/wide_alu.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/wide_alu.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package pack_a
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package pack_a
+-- Compiling entity wide_alu
+-- Compiling architecture wide_1 of wide_alu
+
+} {} {}} F:/ITI/VHDL_Labs/latch.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity latch
+-- Compiling architecture behav of latch
+
 } {} {}} F:/ITI/VHDL_Labs/and2.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/and2.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -63,5 +97,79 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package std_logic_1164
 -- Compiling entity and2
 -- Compiling architecture and2 of and2
+
+} {} {}} F:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fsm
+-- Compiling architecture moore_2p of fsm
+
+} {} {}} F:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity dual_port_ram
+-- Compiling architecture behav of dual_port_ram
+
+} {} {}} F:/ITI/VHDL_Labs/latch4.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch4.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity latch4
+-- Compiling architecture behav of latch4
+
+} {} {}} F:/ITI/VHDL_Labs/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/alu.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Compiling package pack_a
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package pack_a
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture alu of alu
+
+} {} {}} F:/ITI/VHDL_Labs/full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/full_adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture fa of full_adder
+
+} {} {}} F:/ITI/VHDL_Labs/mux.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/mux.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture mux of mux
+
+} {} {}} F:/ITI/VHDL_Labs/latch8.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/latch8.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity latch8
+-- Compiling architecture struct of latch8
+-- Loading entity latch4
+-- Compiling entity latch8
+-- Compiling architecture struct of latch8
+
+} {} {}} F:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd {1 {vcom -work work -2002 -explicit -stats=none F:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fsm
+-- Compiling architecture mealy_2p of fsm
 
 } {} {}}

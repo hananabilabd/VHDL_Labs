@@ -8,155 +8,124 @@ z2
 !i10f 100
 cModel Technology
 Z0 dF:/ITI/VHDL_Labs
-Eand2
-Z1 w1544482958
-Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Ealu
+Z1 w1546032253
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx4 work 6 pack_a 0 22 7[Y@Yz3V1od8eV`kSjhoj3
+Z4 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z5 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
 R0
-Z4 8F:/ITI/VHDL_Labs/and2.vhd
-Z5 FF:/ITI/VHDL_Labs/and2.vhd
+Z8 8F:/ITI/VHDL_Labs/alu.vhd
+Z9 FF:/ITI/VHDL_Labs/alu.vhd
+l0
+L12
+Vb??nNIfV0cfOW;6z`4lFm3
+!s100 6^[C1lfOkSMS_ljYnD[eB3
+Z10 OP;C;10.4a;61
+32
+Z11 !s110 1546035151
+!i10b 1
+Z12 !s108 1546035151.000000
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/alu.vhd|
+Z14 !s107 F:/ITI/VHDL_Labs/alu.vhd|
+!i113 1
+Z15 o-work work -2002 -explicit -O0
+Z16 tExplicit 1
+Aalu
+R2
+R3
+R4
+R5
+R6
+R7
+DEx4 work 3 alu 0 22 b??nNIfV0cfOW;6z`4lFm3
+l18
+L18
+VQ8DoLRk3U=VNjSzST17Kl1
+!s100 95hkb9[^gzW0DVOTB0a8;1
+R10
+32
+R11
+!i10b 1
+R12
+R13
+R14
+!i113 1
+R15
+R16
+Eand2
+Z17 w1544482958
+R6
+R7
+R0
+Z18 8F:/ITI/VHDL_Labs/and2.vhd
+Z19 FF:/ITI/VHDL_Labs/and2.vhd
 l0
 L4
 V3;o0=EUQ[<OVlg54dDmS_2
 !s100 mVMG?VQSZTfMhOzWbQAQ02
-Z6 OP;C;10.4a;61
+R10
 32
-Z7 !s110 1544535850
+Z20 !s110 1546032158
 !i10b 1
-Z8 !s108 1544535850.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/and2.vhd|
-Z10 !s107 F:/ITI/VHDL_Labs/and2.vhd|
+Z21 !s108 1546032158.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/and2.vhd|
+Z23 !s107 F:/ITI/VHDL_Labs/and2.vhd|
 !i113 1
-Z11 o-work work -2002 -explicit -O0
-Z12 tExplicit 1
+R15
+R16
 Aand2
-R2
-R3
-Z13 DEx4 work 4 and2 0 22 3;o0=EUQ[<OVlg54dDmS_2
+R6
+R7
+Z24 DEx4 work 4 and2 0 22 3;o0=EUQ[<OVlg54dDmS_2
 l9
 L9
 Vi<A4HMle5n`I`V2b=oSC<1
 !s100 0;ehgnoV0:lSdXbIWBAbE3
-R6
-32
-R7
-!i10b 1
-R8
-R9
 R10
-!i113 1
-R11
-R12
-Ecounter_test
-Z14 w1544482944
-DPx4 work 14 counterpackage 0 22 [53MVkN:eBa4G6k4PoZAP3
-R0
-Z15 8F:/ITI/VHDL_Labs/counter_test.vhd
-Z16 FF:/ITI/VHDL_Labs/counter_test.vhd
-l0
-L11
-VS5_F8ka^?7mLhVVd9IX[c3
-!s100 3@bTdU?0XRoIgnA<JgMVh0
-R6
 32
-R7
+R20
 !i10b 1
-R8
-Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/counter_test.vhd|
-Z18 !s107 F:/ITI/VHDL_Labs/counter_test.vhd|
-!i113 1
-R11
-R12
-Pcounterpackage
-R14
-R0
-R15
-R16
-l0
-L1
-V[53MVkN:eBa4G6k4PoZAP3
-!s100 DOTSH7oT>F[RLk<ibKZQ63
-R6
-32
-R7
-!i10b 1
-R8
-R17
-R18
-!i113 1
-R11
-R12
-Elatch
-Z19 w1544482980
-R2
-R3
-R0
-Z20 8F:/ITI/VHDL_Labs/latch.vhd
-Z21 FF:/ITI/VHDL_Labs/latch.vhd
-l0
-L4
-V1;hhm;gjdPICVdUWJ[n@X1
-!s100 6=?GAFLzPS7dGBN7z1YC=1
-R6
-32
-R7
-!i10b 1
-R8
-Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch.vhd|
-Z23 !s107 F:/ITI/VHDL_Labs/latch.vhd|
-!i113 1
-R11
-R12
-Abehav
-R2
-R3
-Z24 DEx4 work 5 latch 0 22 1;hhm;gjdPICVdUWJ[n@X1
-l10
-L9
-V<`KYMM8EO[Db9FmFcD6BH3
-!s100 MO05:fakRdUz999:iPmUb0
-R6
-32
-R7
-!i10b 1
-R8
+R21
 R22
 R23
 !i113 1
-R11
-R12
-Elatch4
-Z25 w1544483024
+R15
+R16
+Ecount4
+Z25 w1547422196
 R2
-R3
+R6
+R7
 R0
-Z26 8F:/ITI/VHDL_Labs/latch4Structural.vhd
-Z27 FF:/ITI/VHDL_Labs/latch4Structural.vhd
+Z26 8F:/ITI/VHDL_Labs/Ex_3_Counter.vhd
+Z27 FF:/ITI/VHDL_Labs/Ex_3_Counter.vhd
 l0
 L5
-V`zATL<JkW:DkSC=`EFPcT3
-!s100 O[FdWBIDiSm<nTdhc990z3
-R6
+VJZ9VVm7g<XU41Ei3:J[Rn0
+!s100 h05izZ68?o2fVET:?i@Fg3
+R10
 32
-Z28 !s110 1544536057
+Z28 !s110 1547451920
 !i10b 1
-Z29 !s108 1544536057.000000
-Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch4Structural.vhd|
-Z31 !s107 F:/ITI/VHDL_Labs/latch4Structural.vhd|
+Z29 !s108 1547451919.000000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/Ex_3_Counter.vhd|
+Z31 !s107 F:/ITI/VHDL_Labs/Ex_3_Counter.vhd|
 !i113 1
-R11
-R12
-Astruct
-R13
-R24
+R15
+R16
+Abehav
 R2
-R3
-Z32 DEx4 work 6 latch4 0 22 `zATL<JkW:DkSC=`EFPcT3
-l22
-L11
-V_[D_6W8EJ=aRC`SDl>]AP3
-!s100 >cSUkUVcbU^zKd[=A1l^U3
 R6
+R7
+DEx4 work 6 count4 0 22 JZ9VVm7g<XU41Ei3:J[Rn0
+l14
+L12
+V7UJl4YcllUm@HeG51WOl01
+!s100 :Eha?iR19ak6[ARN13W>01
+R10
 32
 R28
 !i10b 1
@@ -164,73 +133,518 @@ R29
 R30
 R31
 !i113 1
-R11
-R12
+R15
+R16
+Ecounter_test
+Z32 w1544482944
+DPx4 work 14 counterpackage 0 22 [53MVkN:eBa4G6k4PoZAP3
+R0
+Z33 8F:/ITI/VHDL_Labs/counter_test.vhd
+Z34 FF:/ITI/VHDL_Labs/counter_test.vhd
+l0
+L11
+VS5_F8ka^?7mLhVVd9IX[c3
+!s100 3@bTdU?0XRoIgnA<JgMVh0
+R10
+32
+R20
+!i10b 1
+R21
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/counter_test.vhd|
+Z36 !s107 F:/ITI/VHDL_Labs/counter_test.vhd|
+!i113 1
+R15
+R16
+Pcounterpackage
+R32
+R0
+R33
+R34
+l0
+L1
+V[53MVkN:eBa4G6k4PoZAP3
+!s100 DOTSH7oT>F[RLk<ibKZQ63
+R10
+32
+R20
+!i10b 1
+R21
+R35
+R36
+!i113 1
+R15
+R16
+Edff_1
+Z37 w1545934778
+R6
+R7
+R0
+Z38 8F:/ITI/VHDL_Labs/dff_1.vhd
+Z39 FF:/ITI/VHDL_Labs/dff_1.vhd
+l0
+L4
+Vfak;@5M[AOkG[eg<A>?AX2
+!s100 f0bZ;lBmMiP`bMNf19dNE3
+R10
+32
+Z40 !s110 1546032159
+!i10b 1
+Z41 !s108 1546032159.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/dff_1.vhd|
+Z43 !s107 F:/ITI/VHDL_Labs/dff_1.vhd|
+!i113 1
+R15
+R16
 Abehav
-R2
-R3
-Z33 DEx4 work 6 latch4 0 22 z_^hVgoI<H]4nRV:fDSWe3
+R6
+R7
+Z44 DEx4 work 5 dff_1 0 22 fak;@5M[AOkG[eg<A>?AX2
+l11
+L9
+V3kS3B5bboH3`NPQ4Z09GN3
+!s100 >ADj_8h>B_L`[_^Qk4CKo1
+R10
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R15
+R16
+Edual_port_ram
+Z45 w1547423294
+R4
+R5
+R6
+R7
+R0
+Z46 8F:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd
+Z47 FF:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd
+l0
+L5
+V96UUmGzKWY=ifb:jIG1HE2
+!s100 YIVPIB58cM?z>k80OTb4K0
+R10
+32
+!s110 1547451934
+!i10b 1
+Z48 !s108 1547451934.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd|
+Z50 !s107 F:/ITI/VHDL_Labs/Ex_13_Dual_Port_RAM.vhd|
+!i113 1
+R15
+R16
+Abehav
+R4
+R5
+R6
+R7
+DEx4 work 13 dual_port_ram 0 22 96UUmGzKWY=ifb:jIG1HE2
+l16
+L15
+VY^Nz`DVJ6;fG5PlfZF^NI3
+!s100 e:N2]F33l2X=1Y^jH_<7Z1
+R10
+32
+!s110 1547451935
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R15
+R16
+Efsm
+Z51 w1547420366
+R6
+R7
+R0
+Z52 8F:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd
+Z53 FF:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd
+l0
+L4
+VZ[QYDh?C[EQCCg>76kn1A2
+!s100 nG=HHAYGV]Q^5WQ?g5O2l2
+R10
+32
+Z54 !s110 1547451937
+!i10b 1
+Z55 !s108 1547451937.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd|
+Z57 !s107 F:/ITI/VHDL_Labs/Ex_1_Mealy_2p.vhd|
+!i113 1
+R15
+R16
+Amealy_2p
+R6
+R7
+Z58 DEx4 work 3 fsm 0 22 Z[QYDh?C[EQCCg>76kn1A2
+l14
+L10
+V?S5CPZ720WE<=Z5nL;QWG3
+!s100 6HJ1i@_HoB>:zCDN`b8Y=0
+R10
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R15
+R16
+Amoore_2p
+R6
+R7
+R58
+l14
+L10
+VkdU_k2Eb^[2hHY3O]1;lQ1
+!s100 e@6>BPf7<5^_EXzE90WhQ0
+R10
+32
+!s110 1547451930
+!i10b 1
+!s108 1547451930.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd|
+!s107 F:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd|
+!i113 1
+R15
+R16
+FF:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd
+w1547420606
+8F:/ITI/VHDL_Labs/Ex_1_Moore_2p.vhd
+Efull_adder
+Z59 w1545942398
+R6
+R7
+R0
+Z60 8F:/ITI/VHDL_Labs/full_adder.vhd
+Z61 FF:/ITI/VHDL_Labs/full_adder.vhd
+l0
+L4
+VOR@5gW7@X_28A1alZZjd=3
+!s100 bc1]7_@C?>O7kg1a1mV]W1
+R10
+32
+Z62 !s110 1546032160
+!i10b 1
+Z63 !s108 1546032160.000000
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/full_adder.vhd|
+Z65 !s107 F:/ITI/VHDL_Labs/full_adder.vhd|
+!i113 1
+R15
+R16
+Afa
+R6
+R7
+DEx4 work 10 full_adder 0 22 OR@5gW7@X_28A1alZZjd=3
+l9
+L9
+VL>R@SKLC2?_o>YLZa4HlF2
+!s100 0NkQBSKa3Bl5iC`XA6XkI2
+R10
+32
+R62
+!i10b 1
+R63
+R64
+R65
+!i113 1
+R15
+R16
+Elatch
+Z66 w1544482980
+R6
+R7
+R0
+Z67 8F:/ITI/VHDL_Labs/latch.vhd
+Z68 FF:/ITI/VHDL_Labs/latch.vhd
+l0
+L4
+V1;hhm;gjdPICVdUWJ[n@X1
+!s100 6=?GAFLzPS7dGBN7z1YC=1
+R10
+32
+Z69 !s110 1546032157
+!i10b 1
+Z70 !s108 1546032157.000000
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch.vhd|
+Z72 !s107 F:/ITI/VHDL_Labs/latch.vhd|
+!i113 1
+R15
+R16
+Abehav
+R6
+R7
+Z73 DEx4 work 5 latch 0 22 1;hhm;gjdPICVdUWJ[n@X1
+l10
+L9
+V<`KYMM8EO[Db9FmFcD6BH3
+!s100 MO05:fakRdUz999:iPmUb0
+R10
+32
+R69
+!i10b 1
+R70
+R71
+R72
+!i113 1
+R15
+R16
+Elatch4
+Z74 w1544483024
+R6
+R7
+R0
+Z75 8F:/ITI/VHDL_Labs/latch4Structural.vhd
+Z76 FF:/ITI/VHDL_Labs/latch4Structural.vhd
+l0
+L5
+V`zATL<JkW:DkSC=`EFPcT3
+!s100 O[FdWBIDiSm<nTdhc990z3
+R10
+32
+R40
+!i10b 1
+R41
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch4Structural.vhd|
+Z78 !s107 F:/ITI/VHDL_Labs/latch4Structural.vhd|
+!i113 1
+R15
+R16
+Astruct
+R24
+R73
+R6
+R7
+DEx4 work 6 latch4 0 22 `zATL<JkW:DkSC=`EFPcT3
+l22
+L11
+V_[D_6W8EJ=aRC`SDl>]AP3
+!s100 >cSUkUVcbU^zKd[=A1l^U3
+R10
+32
+R40
+!i10b 1
+R41
+R77
+R78
+!i113 1
+R15
+R16
+Abehav
+R6
+R7
+Z79 DEx4 work 6 latch4 0 22 z_^hVgoI<H]4nRV:fDSWe3
 l10
 L10
 V0]DMkld<G<VQEV6>SA@c23
 !s100 R338UI=Fi96e6MTmN76;G3
-R6
+R10
 32
-R7
+R20
 !i10b 1
-R8
+R21
 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch4.vhd|
 !s107 F:/ITI/VHDL_Labs/latch4.vhd|
 !i113 1
-R11
-R12
+R15
+R16
 FF:/ITI/VHDL_Labs/latch4.vhd
 w1544482993
 8F:/ITI/VHDL_Labs/latch4.vhd
 Elatch8
-Z34 w1544535416
-R2
-R3
+Z80 w1544536687
+R6
+R7
 R0
-Z35 8F:/ITI/VHDL_Labs/latch8.vhd
-Z36 FF:/ITI/VHDL_Labs/latch8.vhd
+Z81 8F:/ITI/VHDL_Labs/latch8.vhd
+Z82 FF:/ITI/VHDL_Labs/latch8.vhd
 l0
 L31
 VFDSznYGLj6^9gc4j^ZcYI0
 !s100 Jfccz@8;nRKL05fQA_COl3
-R6
+R10
 32
-Z37 !s110 1544536064
+R20
 !i10b 1
-Z38 !s108 1544536064.000000
-Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch8.vhd|
-Z40 !s107 F:/ITI/VHDL_Labs/latch8.vhd|
+R21
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/latch8.vhd|
+Z84 !s107 F:/ITI/VHDL_Labs/latch8.vhd|
 !i113 1
-R11
-R12
+R15
+R16
 Astruct
-R32
-R2
-R3
-Z41 DEx4 work 6 latch8 0 22 FDSznYGLj6^9gc4j^ZcYI0
+R79
+R6
+R7
+DEx4 work 6 latch8 0 22 FDSznYGLj6^9gc4j^ZcYI0
 l49
 L37
-Z42 VdzGYC=8icB^M@SY50U=JW2
-Z43 !s100 @OCF_z3C6gc0gYz4g=f811
-R6
+VdzGYC=8icB^M@SY50U=JW2
+!s100 @OCF_z3C6gc0gYz4g=f811
+R10
 32
-R37
+R20
 !i10b 1
-R38
-R39
-R40
+R21
+R83
+R84
 !i113 1
-R11
-R12
+R15
+R16
+Emux
+Z85 w1545941724
+R6
+R7
+R0
+Z86 8F:/ITI/VHDL_Labs/mux.vhd
+Z87 FF:/ITI/VHDL_Labs/mux.vhd
+l0
+L4
+VBKm7d6?WP<GWEbXjcUHd<1
+!s100 IJm;kGV?RKhemjgTWdPzD1
+R10
+32
+R62
+!i10b 1
+R63
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/mux.vhd|
+Z89 !s107 F:/ITI/VHDL_Labs/mux.vhd|
+!i113 1
+R15
+R16
+Amux
+R6
+R7
+DEx4 work 3 mux 0 22 BKm7d6?WP<GWEbXjcUHd<1
+l10
+L10
+Vn2@zI4z1:W=<4Y:f=ONo80
+!s100 cCZ3KbYTi_U2`1Qb>Ll]31
+R10
+32
+R62
+!i10b 1
+R63
+R88
+R89
+!i113 1
+R15
+R16
+Ppack_a
+Z90 w1546033030
+R0
+Z91 8F:/ITI/VHDL_Labs/wide_alu.vhd
+Z92 FF:/ITI/VHDL_Labs/wide_alu.vhd
+l0
+L1
+V[VIJef?I]F91?V_[FQNo[2
+!s100 HZ5TLSSPD>A?M^D?T`^z_3
+R10
+32
+Z93 !s110 1546035155
+!i10b 1
+Z94 !s108 1546035155.000000
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/wide_alu.vhd|
+Z96 !s107 F:/ITI/VHDL_Labs/wide_alu.vhd|
+!i113 1
+R15
+R16
+Erom
+Z97 w1547455278
+Z98 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R4
+R5
+R6
+R7
+R0
+Z99 8F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd
+Z100 FF:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd
+l0
+L7
+V0Ag3<N78iJgP@J?L4MP^`2
+!s100 RRebn7Mf=a8821n5M1<Sd2
+R10
+32
+Z101 !s110 1547455550
+!i10b 1
+Z102 !s108 1547455550.000000
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd|
+Z104 !s107 F:/ITI/VHDL_Labs/Ex_11_Init_ROM_From_Txt_File.vhd|
+!i113 1
+R15
+R16
+Afunction_arch
+R98
+R4
+R5
+R6
+R7
+Z105 DEx4 work 3 rom 0 22 0Ag3<N78iJgP@J?L4MP^`2
+l30
+L15
+Z106 V[X3AX?i38FkGVnLcmWkGK3
+Z107 !s100 2CDKP4hgHn?Co>CV`N2aB3
+R10
+32
+R101
+!i10b 1
+R102
+R103
+R104
+!i113 1
+R15
+R16
+Etb_comb_42
+Z108 w1546029921
+R98
+R6
+R7
+R0
+Z109 8F:/ITI/VHDL_Labs/tb.vhd
+Z110 FF:/ITI/VHDL_Labs/tb.vhd
+l0
+L7
+VZWa[a7>6M?6SYn[Gc_QLU0
+!s100 DVdRJ6L=k61j;@<jlk3Mi0
+R10
+32
+R62
+!i10b 1
+R41
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/tb.vhd|
+Z112 !s107 F:/ITI/VHDL_Labs/tb.vhd|
+!i113 1
+R15
+R16
+Atest_dff
+R44
+R98
+R6
+R7
+DEx4 work 10 tb_comb_42 0 22 ZWa[a7>6M?6SYn[Gc_QLU0
+l20
+L10
+VZTSdJ@>l5]h]ATlUOEIB^2
+!s100 i[RR>QkP<JmOb8ai0N>CG0
+R10
+32
+R62
+!i10b 1
+R41
+R111
+R112
+!i113 1
+R15
+R16
 Etestbench
 w1544484452
-R2
-R3
+R6
+R7
 R0
 8F:/ITI/VHDL_Labs/testbench.vhd
 FF:/ITI/VHDL_Labs/testbench.vhd
@@ -238,13 +652,56 @@ l0
 L4
 Ve=aO;Yi^=oXRE?_>279j52
 !s100 NaNUGQOUoO6LLI=3hH9@h2
-R6
+R10
 32
-R7
+R40
 !i10b 1
-R8
+R41
 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/ITI/VHDL_Labs/testbench.vhd|
 !s107 F:/ITI/VHDL_Labs/testbench.vhd|
 !i113 1
-R11
-R12
+R15
+R16
+Ewide_alu
+R90
+Z113 DPx4 work 6 pack_a 0 22 [VIJef?I]F91?V_[FQNo[2
+R4
+R6
+R7
+R0
+R91
+R92
+l0
+L9
+VD>:2lLk<gIO8c332aCmVZ3
+!s100 e?Lbf?TdFhPcUgVH]oS;j3
+R10
+32
+R93
+!i10b 1
+R94
+R95
+R96
+!i113 1
+R15
+R16
+Awide_1
+R113
+R4
+R6
+R7
+DEx4 work 8 wide_alu 0 22 D>:2lLk<gIO8c332aCmVZ3
+l23
+L15
+VUM6UZnc^zEhRTH5eT[o>H1
+!s100 UeXPS9;f`>[LXlo>m;ZhK0
+R10
+32
+R93
+!i10b 1
+R94
+R95
+R96
+!i113 1
+R15
+R16

@@ -1,0 +1,17 @@
+qout = U
+qout = U
+qout = 0
+qout = 0
+qout = 0
+qout = 0
+qout = 0
+qout = 1
+qout = 1
+qout = 0
+qout = 0
+qout = 1
+qout = 1
+qout = 0
+qout = 0
+qout = 1
+qout = 1

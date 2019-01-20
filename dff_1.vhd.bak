@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+ENTITY dff_1 IS 
+PORT (d ,clk,rst :IN std_logic;
+	q: out std_logic);
+END ENTITY dff_1;
+
+ARCHITECTURE and2 of and2 IS BEGIN
+	p1 :PROCESS  (a,b) is 
+	
+	BEGIN
+	c<= a AND b; 
+	
+END PROCESS p1;
+END ARCHITECTURE and2;
+
